@@ -14,15 +14,6 @@ Instead of using separate systems for different diseases, our application brings
 
 ---
 
-# 🌐 Try Our Live Application
-
-### 🚀 Experience the AI Health Care Assistant here:
-
-[🩺 Launch AI Health Care Assistant](https://ai-health-assistant-mlmodel.streamlit.app/))
-
-> **One Platform. Multiple Predictions. Smarter Healthcare. 🤖💙**
-
----
 
 ## ✨ What Can Our AI Health Care Assistant Do?
 
